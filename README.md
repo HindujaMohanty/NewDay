@@ -1,5 +1,6 @@
 # NewDay
 NewSetOfQuestions
+
 Q1) blob 
 A1)A Git blob (binary large object) is the object type used to store the contents of each file in a repository. The file's SHA-1 hash is computed and stored in the blob object.
 BLOBs are used primarily to hold multimedia objects such as images, videos, and sound, though they can also be used to store programs or even fragments of code. Not all DBMSs support BLOBs.
